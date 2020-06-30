@@ -1,0 +1,104 @@
+
+body{
+    font-family:'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+section
+{
+    height: 500px;
+    /*display: inline-block;*/
+    
+}
+h1
+{
+    font-size: 50px;
+    font-weight: 700;
+}
+h2
+{
+    font-size: 40px;
+    font-weight: 500;
+}
+p
+{
+  color: dimgray;
+}
+.hailaight-bakko
+{
+    color: orange;
+}
+.prothom-s 
+{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+
+}
+.prothom-d
+{
+     width: 40%;
+     height:85% ;
+     margin-left: 5%;
+     padding-left: 2%;
+     float: left;
+     
+}
+.prothom-d img
+{
+   width: 100%;
+}
+
+.link-button
+{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg, gold,goldenrod);
+    padding:10px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.ditio-s
+{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    
+    
+
+}
+.box-digain
+{
+    box-shadow: 10px 10px 50px gray;
+    height: 70%;
+    border-radius: 10px;
+    background-color: white;
+}
+.tritio-s
+{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+#vinno-digain1
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+#vinno-digain2
+{
+    border-left: 7px solid;
+    border-image: linear-gradient(45deg, gold,goldenrod);
+    border-image-slice: 1;
+}
+footer p
+{
+    text-align: center;
+    font-size: 15px;
+    color: gray;
+    margin-top: 5%;
+}
